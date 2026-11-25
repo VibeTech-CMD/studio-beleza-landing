@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Atualize a URL abaixo após configurar o domínio final do projeto
+# Sitemap: https://seu-dominio.com.br/sitemap.xml
