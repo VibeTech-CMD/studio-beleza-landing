@@ -1,4 +1,4 @@
-# Atelier Lumière — Landing Page Comercial para Profissionais da Beleza Feminina
+# Vibe Fashion — Landing Page Comercial para Profissionais da Beleza Feminina
 
 Landing page comercial premium desenvolvida para profissionais autônomas e pequenos estúdios da área da beleza feminina (manicure, pedicure, alongamento de unhas, nail design, extensão de cílios, lash lifting, design de sobrancelhas, beleza facial e cuidados estéticos).
 

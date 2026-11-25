@@ -9,7 +9,7 @@
 
 export const siteConfig = {
   brand: {
-    studioName: 'Atelier Lumière',
+    studioName: 'Vibe Fashion',
     studioSubtitle: 'Beleza & Autocuidado',
     professionalName: 'Nome da Profissional',
     professionalRole: 'Especialista em Beleza Feminina',
@@ -40,7 +40,7 @@ export const siteConfig = {
   },
 
   seo: {
-    title: 'Atelier Lumière | Beleza Feminina, Unhas, Cílios e Autocuidado',
+    title: 'Vibe Fashion | Beleza Feminina, Unhas, Cílios e Autocuidado',
     description:
       'Manicure, pedicure, alongamento de unhas, nail design, extensão de cílios, lash lifting, design de sobrancelhas e beleza facial em um espaço pensado para o seu autocuidado.',
     siteUrl: '',
